@@ -20,6 +20,7 @@ To host the webpage using Node.js:
 
 
 Open your browser and visit:
+http://127.0.0.1:1337/
 
 
 ## Purpose
