@@ -14,3 +14,14 @@ Travel Explorer is a responsive web project built using HTML, CSS, Bootstrap, an
 To view the website, open index.html in any modern browser.
 
 To run the Node.js server:
+
+
+To host the webpage using Node.js:
+
+
+Open your browser and visit:
+
+
+## Purpose
+This project demonstrates responsive web design with Bootstrap and basic server side functionality using Node.js. It is part of my web development practice and portfolio.
+
